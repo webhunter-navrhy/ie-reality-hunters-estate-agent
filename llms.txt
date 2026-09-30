@@ -1,0 +1,13 @@
+# Hunters Estate Agent
+
+> Properties from the agency Hunters Estate Agent.
+
+- Phone: +35312897840
+- Email: foxrock@huntersestateagent.ie
+- Website: https://www.huntersestateagent.ie/
+- Address: 2 Brighton Road, Foxrock, Dublin 18
+
+## Properties (3)
+- 3 bed terraced house for sale — Dublin 18, €690,000: 3-bed-terraced-house-for-sale-5030892/
+- 2 bed apartment for sale — Dublin 4, €495,000: 2-bed-apartment-for-sale-5031106/
+- 2 bed apartment for sale — Dublin South County, €425,000: 2-bed-apartment-for-sale-5031175/
